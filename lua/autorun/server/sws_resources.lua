@@ -1,0 +1,13 @@
+resource.AddFile("materials/serfwepstats/Damage.png")
+resource.AddFile("materials/serfwepstats/Recoil.png")
+resource.AddFile("materials/serfwepstats/Delay.png")
+resource.AddFile("materials/serfwepstats/ClipSize.png")
+resource.AddFile("materials/serfwepstats/ClipMax.png")
+resource.AddFile("materials/serfwepstats/Cone.png")
+
+resource.AddFile("materials/serfwepstats/Damage.vtf")
+resource.AddFile("materials/serfwepstats/Recoil.vtf")
+resource.AddFile("materials/serfwepstats/Delay.vtf")
+resource.AddFile("materials/serfwepstats/ClipSize.vtf")
+resource.AddFile("materials/serfwepstats/ClipMax.vtf")
+resource.AddFile("materials/serfwepstats/Cone.vtf")

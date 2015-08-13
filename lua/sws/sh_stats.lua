@@ -1,0 +1,1 @@
+sws.stats = { "Damage", "Delay", "Recoil", "Cone", "ClipSize", "ClipMax", "DefaultClip" }
